@@ -7113,10 +7113,6 @@ DIN A4, landscape with extra doc field</description>
 <text x="198.12" y="7.62" size="2.54" layer="94">488-1</text>
 <text x="256.54" y="7.62" size="2.54" layer="94">A</text>
 <text x="198.12" y="27.94" size="5.08" layer="94">Tyler Camp</text>
-<text x="7.62" y="15.24" size="2.54" layer="94">LEDS: RED, V_f=1.8V, I_f = 10mA MAX</text>
-<text x="7.62" y="10.16" size="2.54" layer="94">ICA-ICF: SN74HC14 6-CH INVERTER</text>
-<text x="7.62" y="22.86" size="3.81" layer="94">DESIGN NOTES</text>
-<wire x1="7.62" y1="20.32" x2="106.68" y2="20.32" width="0.254" layer="94"/>
 </plain>
 <instances>
 <instance part="IC" gate="A" x="104.14" y="114.3" smashed="yes">
