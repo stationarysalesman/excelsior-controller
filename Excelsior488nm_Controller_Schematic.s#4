@@ -7361,8 +7361,9 @@ DIN A4, landscape with extra doc field</description>
 <wire x1="33.02" y1="119.38" x2="35.56" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="SUPPLY1" gate="+5V" pin="+5V"/>
 <wire x1="35.56" y1="165.1" x2="35.56" y2="162.56" width="0.1524" layer="91"/>
-<wire x1="35.56" y1="162.56" x2="35.56" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="162.56" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
 <junction x="35.56" y="162.56"/>
+<wire x1="35.56" y1="147.32" x2="35.56" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="134.62" x2="35.56" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="162.56" x2="68.58" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="162.56" x2="68.58" y2="177.8" width="0.1524" layer="91"/>
@@ -7386,6 +7387,9 @@ DIN A4, landscape with extra doc field</description>
 <pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="99.06" y1="119.38" x2="99.06" y2="106.68" width="0.1524" layer="91"/>
 <junction x="99.06" y="119.38"/>
+<pinref part="IC" gate="B" pin="I"/>
+<wire x1="73.66" y1="147.32" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
+<junction x="35.56" y="147.32"/>
 </segment>
 </net>
 <net name="N$1" class="0">

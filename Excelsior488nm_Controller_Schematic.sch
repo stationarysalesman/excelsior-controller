@@ -6928,10 +6928,10 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="1k"/>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="670"/>
-<part name="LASER_ON" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="10MM" package3d_urn="urn:adsk.eagle:package:15828/1"/>
-<part name="OUTPUT_OK" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="10MM" package3d_urn="urn:adsk.eagle:package:15828/1"/>
-<part name="EMISSION" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="10MM" package3d_urn="urn:adsk.eagle:package:15828/1"/>
-<part name="ALARM" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="10MM" package3d_urn="urn:adsk.eagle:package:15828/1"/>
+<part name="LASER_ON" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
+<part name="OUTPUT_OK" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
+<part name="EMISSION" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
+<part name="ALARM" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
 <part name="PIN2" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
 <part name="PIN1" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
 <part name="PIN10" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
